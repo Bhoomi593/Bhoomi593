@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <Bhoomika B></h1>
+<h1 align="center">Hi 👋, I'm Bhoomika B</h1>
 <h3 align="center">Senior Java Full-Stack Developer | Microservices | Spring Boot | Cloud | DevOps</h3>
 
 ---
